@@ -17,7 +17,7 @@ function Footer() {
                     <div className="row">
                         <h3 className="text-white-50 mb-3">Feel free to contact me:</h3>
                         <div className="d-flex align-items-center mb-3">
-                            <img src={email} alt="email" className="me-2" width={"25px"}/>
+                            <img src={email} alt="email" className="me-2" width={"25px"} />
                             <p className="text-white fs-5 mb-0">amine.loubar.1999@gmail.com</p>
                         </div>
                         <div className="hire col-md mb-4 mb-md-0">
@@ -36,7 +36,7 @@ function Footer() {
                                     </a>
                                 </li>
                                 <li className="d-flex align-items-center gap-2">
-                                    <img src={fiverr} alt="fiverr"/>
+                                    <img src={fiverr} alt="fiverr" />
                                     <a href="https://www.fiverr.com/amine_for_uiux" className="text-white opacity-75">
                                         Fiverr
                                     </a>
@@ -45,27 +45,27 @@ function Footer() {
                             <h3 className="text-white-50 mt-4 mb-3">Find me on social media</h3>
                             <ul className="social-media d-flex flex-column gap-2">
                                 <li className="d-flex align-items-center gap-2">
-                                    <img src={instagram} alt="instagram" width={"25px"}/>
-                                    <a href="https://www.instagram.com/amine.loubar" className="text-white opacity-75" target="blank">
-                                        @aymane.amiine
+                                    <img src={instagram} alt="instagram" width={"25px"} />
+                                    <a href="https://www.instagram.com/amiineloubar" className="text-white opacity-75" target="blank">
+                                        @amiineloubar
                                     </a>
                                 </li>
                                 <li className="d-flex align-items-center gap-2">
-                                    <img src={twitter} alt="twitter" width={"25px"}/>
-                                    <a href="https://twitter.com/amine09764070" className="text-white opacity-75" target="blank">
-                                        @amine09764070
+                                    <img src={twitter} alt="twitter" width={"25px"} />
+                                    <a href="https://twitter.com/amiineloubar" className="text-white opacity-75" target="blank">
+                                        @amiineloubar
                                     </a>
                                 </li>
                                 <li className="d-flex align-items-center gap-2">
-                                    <img src={linkedIn} alt="linkedIn" width={"25px"}/>
-                                    <a href="https://www.linkedin.com/in/aymane-amine" className="text-white opacity-75" target="blank">
-                                        @aymane-amine
+                                    <img src={linkedIn} alt="linkedIn" width={"25px"} />
+                                    <a href="https://www.linkedin.com/in/amiineloubar" className="text-white opacity-75" target="blank">
+                                        @amiineloubar
                                     </a>
                                 </li>
                                 <li className="d-flex align-items-center gap-2">
-                                    <img src={gitHub} alt="gitHub" width={"25px"}/>
-                                    <a href="https://github.com/4mine-tech" className="text-white opacity-75" target="blank">
-                                        @4mine-tech
+                                    <img src={gitHub} alt="gitHub" width={"25px"} />
+                                    <a href="https://github.com/amiineloubar" className="text-white opacity-75" target="blank">
+                                        @amiineloubar
                                     </a>
                                 </li>
                             </ul>
