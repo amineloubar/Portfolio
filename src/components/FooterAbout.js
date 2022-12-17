@@ -47,26 +47,26 @@ function FooterAbout() {
                             <ul className="social-media d-flex flex-column gap-2">
                                 <li className="d-flex align-items-center gap-2">
                                     <img src={instagram} alt="instagram" width={"25px"}/>
-                                    <a href="https://www.instagram.com/amine.loubar" className="text-white opacity-75" target="blank">
-                                        @aymane.amiine
+                                    <a href="https://www.instagram.com/amiineloubar" className="text-white opacity-75" target="blank">
+                                        @amiineloubar
                                     </a>
                                 </li>
                                 <li className="d-flex align-items-center gap-2">
                                     <img src={twitter} alt="twitter" width={"25px"}/>
-                                    <a href="https://twitter.com/amine09764070" className="text-white opacity-75" target="blank">
-                                        @amine09764070
+                                    <a href="https://twitter.com/amiineloubar" className="text-white opacity-75" target="blank">
+                                        @amiineloubar
                                     </a>
                                 </li>
                                 <li className="d-flex align-items-center gap-2">
                                     <img src={linkedIn} alt="linkedIn" width={"25px"}/>
-                                    <a href="https://www.linkedin.com/in/aymane-amine" className="text-white opacity-75" target="blank">
-                                        @aymane-amine
+                                    <a href="https://www.linkedin.com/in/amiineloubar" className="text-white opacity-75" target="blank">
+                                        @amiineloubar
                                     </a>
                                 </li>
                                 <li className="d-flex align-items-center gap-2">
                                     <img src={gitHub} alt="gitHub" width={"25px"}/>
-                                    <a href="https://github.com/4mine-tech" className="text-white opacity-75" target="blank">
-                                        @4mine-tech
+                                    <a href="https://github.com/amiineloubar" className="text-white opacity-75" target="blank">
+                                        @amiineloubar
                                     </a>
                                 </li>
                             </ul>
